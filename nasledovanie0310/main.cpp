@@ -3,6 +3,7 @@ using namespace std;
 
 class Person
 {
+protected:
 	char* name;
 	int age;
 public:
